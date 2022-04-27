@@ -1,10 +1,17 @@
-JSON
-
-{
-     "Name":"Luis",
-     "Age":25,
-     "Id":[1,2,3,4,5]
-
-
-
-}
+[
+     {
+       "id":1,
+       "name":"Luis",
+       "age":23
+     },
+     {
+       "id":2,
+       "name":"Mafe",
+       "age":25
+     },
+     {
+       "id":3,
+       "name":"Diego",
+       "age":28
+     }
+   ]
